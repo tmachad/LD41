@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/RogueTD.unity
+- path: Assets/_Scenes/RogueTD.unity
   isLoaded: 1
   isActive: 1

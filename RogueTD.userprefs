@@ -2,8 +2,14 @@
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\GameManager.cs">
     <Files>
-      <File FileName="Assets\Scripts\LevelGenerator.cs" Line="64" Column="19" />
-      <File FileName="Assets\Scripts\GameManager.cs" Line="59" Column="47" />
+      <File FileName="Assets\Scripts\Spawner.cs" Line="14" Column="29" />
+      <File FileName="Assets\Scripts\GameManager.cs" Line="82" Column="23" />
+      <File FileName="Assets\Scripts\Goal.cs" Line="20" Column="35" />
+      <File FileName="Assets\Scripts\Enemy.cs" Line="11" Column="19" />
+      <File FileName="Assets\Scripts\TowerPlacer.cs" Line="48" Column="16" />
+      <File FileName="Assets\Scripts\Tower.cs" Line="28" Column="33" />
+      <File FileName="Assets\Scripts\SceneLoader.cs" Line="18" Column="30" />
+      <File FileName="Assets\Scripts\LevelGenerator.cs" Line="83" Column="36" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
